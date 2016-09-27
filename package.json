@@ -18,9 +18,9 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "files": {
+  "files": [
     "get-ip-address.js",
     "README.md",
     "LICENSE"
-  }
+  ]
 }
