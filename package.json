@@ -1,0 +1,21 @@
+{
+  "name": "get-ip-address",
+  "version": "1.0.0",
+  "description": "Get ip address for an interface",
+  "main": "get-ip-address.js",
+  "scripts": {},
+  "author": "Paolo Chiodi (https://github.com/paolochiodi)",
+  "license": "MIT",
+  "keywords": [
+    "address",
+    "ip",
+    "interface"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paolochiodi/get-ip-address"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
